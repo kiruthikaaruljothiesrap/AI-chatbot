@@ -1,0 +1,7 @@
+Chatbot is ready! Type 'exit' to end the chat.
+You: hello
+Chatbot: Hi there! How can I help you?
+You: what is your name
+Chatbot: I am your friendly chatbot created using NLTK!
+You: bye
+Chatbot: Goodbye! Have a nice day!
